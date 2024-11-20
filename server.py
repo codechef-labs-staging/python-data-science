@@ -4,7 +4,6 @@ import matplotlib
 matplotlib.use('Agg')
 import http.server
 import socketserver
-import webbrowser
 import traceback
 import matplotlib.pyplot as plt
 
